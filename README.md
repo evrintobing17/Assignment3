@@ -1,5 +1,6 @@
 # Assignment3
-Hacktiv8 Assignment3
+Hacktiv8 Assignment: 
+Making service that update status from json file every 15 seconds
 
 ## Usage 
 ### Start Using It
